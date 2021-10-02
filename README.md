@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85174365/135731092-82a0b6e1-c5d8-4196-ab12-ed5fc6540703.png)
+
+
 # dio-aws-bigdata
 Criar um Ecossistema de Big Data na AWS e rodar um programa em python para ordenar as palavras por ocorrência, apresentando as mais citadas no texto com prioridade,
 
